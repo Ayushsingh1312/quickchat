@@ -1,4 +1,4 @@
-# 💬 QuickChat – MERN Stack Real-Time Chat App with Socket.io
+# 💬 QuickChat – Real-Time Chat App with Socket.io
 
 QuickChat is a full-stack real-time messaging application built with the **MERN stack** and **Socket.io**. It allows users to sign up, chat with others in real-time, update profiles, and share images seamlessly.
 
